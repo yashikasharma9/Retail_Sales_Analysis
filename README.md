@@ -113,13 +113,4 @@ retail-sales-analysis/
 
 ---
 
-## 📧 Contact
-
-**Your Name**  
-📫 [your.email@example.com](mailto:your.email@example.com)  
-🔗 [LinkedIn](https://linkedin.com/in/yourusername)  
-🌐 [Portfolio](https://yourportfolio.com)
-
----
-
 > ⭐ *Feel free to fork this project, suggest improvements, or raise an issue. Feedback is welcome!*
